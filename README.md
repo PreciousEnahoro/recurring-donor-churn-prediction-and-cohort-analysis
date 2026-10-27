@@ -1,7 +1,7 @@
 # Recurring Donor Churn Prediction and Cohort Analysis
 
 ### Objective
-The objective of this project is to enhance monthly revenue for a (non-profit) Digital Fundraising Team by bolstering the retention rate of recurring donors. For instance, implementing targeted email campaigns to recurring donors or individuals in specific interest areas identified by the predictive model to prevent churn. For this sample, it is projected that targeting the predicted churners would boost monthly revenue by $5,000 on average.
+The objective of this project is to enhance monthly revenue for a (non-profit) Digital Fundraising Team by bolstering the retention rate of recurring donors. This project examined recurring-donor retention for a nonprofit digital fundraising team and explored whether historical donor behavior could be used to identify donors at elevated risk of churn. The analysis was designed to support prioritization of donor-retention efforts, such as targeted outreach, rather than to predict donor behavior with certainty. For instance, implementing targeted email campaigns to recurring donors or individuals in specific interest areas identified by the predictive model to prevent churn. For this sample, the analysis estimated approximately $5,000 in average monthly recurring revenue associated with donors predicted to churn, illustrating the potential revenue that retention efforts could seek to preserve.
 
 ### Part 1
 Conducted cohort analysis to explore retention rate trends among recurring donors.
