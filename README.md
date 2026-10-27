@@ -5,7 +5,7 @@ The objective of this project is to enhance monthly revenue for a (non-profit) D
 
 ### Part 1
 Conducted cohort analysis to explore retention rate trends among recurring donors.
-Key Insight: Currently, only approximately 30% of recurring donors (in this sample) remain retained two years post-donation initiation.
+**Key Insight:** Across the 2016–2020 recurring-donation cohorts analyzed, approximately 31% of recurring donation arrangements remained active in the second calendar year following initiation, based on the unweighted average of cohort retention rates.
 
 ### Part 2
 Employed classification models such as SVM and random forests in Python to forecast monthly donor churn, prioritizing recall for model evaluation.
